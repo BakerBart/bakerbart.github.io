@@ -27,4 +27,6 @@ I’m passionate about safeguarding digital systems and tackling real-world secu
 
 ---
 
-*More projects and content coming soon!*
+### Projects  
+- [PESEL Security Checker: How Safe Are Your Tax Documents?](pesel-security-checker)  
+*More projects coming soon!*
