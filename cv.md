@@ -3,6 +3,10 @@ layout: default
 title: Resume
 ---
 
+[🏠 Home](./index.html) | [📄 Resume](./cv.html) | [💻 Airbnb Project](./airbnb-clone.html)
+
+---
+
 # Bartosz Piekarz – Resume
 
 📍 Kraków, Poland  
