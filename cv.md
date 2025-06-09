@@ -6,8 +6,7 @@ title: Resume
 # Bartosz Piekarz – Resume
 
 📍 Kraków, Poland  
-📧 bakercodemaker@gmail.com / bpiekarz@gmail.com  
-📱 +48 515 561 457  
+📧 bakercodemaker@gmail.com
 🌐 [Website](https://bakerbart.github.io/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/bartosz-piekarz-112b83194/) | [GitHub](https://github.com/BakerBart)
 
