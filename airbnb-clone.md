@@ -3,6 +3,10 @@ layout: default
 title: Airbnb Clone Project
 ---
 
+[🏠 Home](./index.html) | [📄 Resume](./cv.html) | [💻 Airbnb Project](./airbnb-clone.html)
+
+---
+
 # Airbnb Clone App (Ruby on Rails)
 
 Welcome to my developer portfolio. I'm currently working on a full-stack project that replicates key functionalities of **Airbnb** using **Ruby on Rails 7**, **Tailwind CSS**, **Hotwire (Turbo & Stimulus)**, and **PostgreSQL**.
