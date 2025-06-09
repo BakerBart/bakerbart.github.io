@@ -2,122 +2,78 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Airbnb Clone App (Ruby on Rails)
 
-[Link to another page](./another-page.html).
+Welcome to my developer portfolio. I'm currently working on a full-stack project that replicates key functionalities of **Airbnb** using **Ruby on Rails 7**, **Tailwind CSS**, **Hotwire (Turbo & Stimulus)**, and **PostgreSQL**.
 
-There should be whitespace between paragraphs.
+> ⚠️ This project is in active development. Please check back soon to see progress :)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 🔧 Tech Stack
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **Backend**: Ruby on Rails 7
+- **Frontend**: Tailwind CSS, Turbo, Stimulus (Hotwire)
+- **Database**: PostgreSQL
+- **Payments**: Stripe integration
+- **Others**: Map-based search (likely with Mapbox or Google Maps), Devise or similar authentication
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 🚀 Planned Features
 
-### Header 3
+-  User authentication (Guests & Hosts)
+-  Listing management (CRUD for hosts)
+-  Map-based listing search with filters
+-  Booking system with availability validation
+-  Stripe payment integration for secure transactions
+-  User dashboards for booking management
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 💡 Why this project?
 
-#### Header 4
+This application showcases my ability to:
+- Build a full-featured Rails app from scratch
+- Integrate third-party services (Stripe, map APIs)
+- Write clean, maintainable code following MVC patterns
+- Use modern UI tools (Tailwind CSS, Hotwire) to create interactive and responsive experiences
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+The project is based on a public YouTube tutorial by **Indigo Tech Tutorials**,
+---
 
-##### Header 5
+## 🛠️ In Progress
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+I'm currently building out features one-by-one while documenting and improving the code. I plan to:
+- Deploy the finished project to a live server
+- Add automated tests (RSpec + Capybara)
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## 📌 Status
 
-### There's a horizontal rule below this.
+**Started:** June 2025  
+**Current phase:** Backend models, authentication, and listing forms  
+**Next:** Booking logic and map search  
 
-* * *
+---
 
-### Here is an unordered list:
+## 📫 Want to connect?
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Feel free to reach out or follow the repository for updates. I'm open to feedback, collaborations, and job opportunities in backend development, especially with Ruby on Rails.
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## ✅ What to add later
 
-### And a nested list:
+Here are a few things I plan to include once the app is complete:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- Screenshots & screen recordings of key features
+- A video walkthrough/demo (hosted on YouTube or Loom)
+- Link to the live app (e.g., on Render, Fly.io, or Heroku)
 
-### Small image
+---
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+Thanks for visiting my GitHub Pages portfolio!
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+> This page will be regularly updated as development progresses.
