@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+[🏠 Home](./index.html) | [📄 Resume](./cv.html) | [💻 Airbnb Project](./airbnb-clone.html)
+
+---
+
 # 👋 Welcome
 
 Hi, I’m **Bartosz Piekarz** – a Software Developer based in Kraków, Poland.
