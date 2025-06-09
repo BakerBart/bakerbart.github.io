@@ -7,7 +7,7 @@ title: Resume
 
 📍 Kraków, Poland  
 📧 bakercodemaker@gmail.com
-🌐 [Website](https://bakerbart.github.io/)  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/bartosz-piekarz-112b83194/) | [GitHub](https://github.com/BakerBart)
 
 ---
