@@ -3,7 +3,13 @@ layout: default
 title: Airbnb Clone Project
 ---
 
-[🏠 Home](./index.html) | [📄 Resume](./cv.html) | [💻 Airbnb Project](./airbnb-clone.html)
+---
+
+<p align="center">
+  <a href="./index.html">🏠 Home</a> &nbsp;|&nbsp;
+  <a href="./cv.html">📄 Resume</a> &nbsp;|&nbsp;
+  <a href="./airbnb-clone.html">💻 Airbnb Project</a>
+</p>
 
 ---
 
