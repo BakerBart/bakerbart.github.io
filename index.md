@@ -61,6 +61,7 @@ I'm currently building out features one-by-one while documenting and improving t
 ## 📫 Want to connect?
 
 Feel free to reach out or follow the repository for updates. I'm open to feedback, collaborations, and job opportunities in backend development, especially with Ruby on Rails.
+[📄 View my full resume](./cv.md)
 
 ---
 
@@ -76,4 +77,6 @@ Here are a few things I plan to include once the app is complete:
 
 Thanks for visiting my GitHub Pages portfolio!
 
+
+---
 > This page will be regularly updated as development progresses.
