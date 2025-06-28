@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Projects
----
 
+---
 <p align="center">
-  <a href="./index.html">🏠 Home</a> | <a href="./cv.html">📄 Resume</a> | <a href="./projects/projects.html">🧠 Projects</a>
+  <a href="../index.html">🏠 Home</a> &nbsp;|&nbsp;
+  <a href="../cv.html">📄 Resume</a> &nbsp;|&nbsp;
+  <a href="./projects.html">🧠 Projects</a>
 </p>
+---
 
 # 🧠 My Projects
 
