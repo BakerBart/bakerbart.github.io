@@ -2,13 +2,11 @@
 layout: default
 title: Airbnb Clone Project
 ---
-
 <p align="center">
-  <a href="./index.html">🏠 Home</a> &nbsp;|&nbsp;
-  <a href="./cv.html">📄 Resume</a> &nbsp;|&nbsp;
-  <a href="./airbnb-clone.html">💻 Airbnb Project</a>
+  <a href="../index.html">🏠 Home</a> &nbsp;|&nbsp;
+  <a href="../cv.html">📄 Resume</a> &nbsp;|&nbsp;
+  <a href="./projects.html">🧠 Projects</a>
 </p>
-
 ---
 
 # Airbnb Clone App (Ruby on Rails)
