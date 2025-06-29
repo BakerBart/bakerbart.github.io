@@ -35,20 +35,30 @@ Software Developer with 2+ years of experience in Ruby on Rails, backend develop
 - **Security:** Devise, Auth0, Magic Link, MFA, Access Policies
 - **Other:** Agile, SOLID principles, clean code
 
+
 ---
 
 ## 🏢 Experience
 
 ### Software Developer – Lunar Logic  
-_Feb 2022 – Aug 2024, Kraków_
+📍 Kraków, Poland | 🗓 Feb 2022 – Aug 2024
 
-- Implemented secure AWS integrations (S3, SES, Secrets Manager)
-- Developed REST APIs connecting Rails with React and third-party APIs (Stripe, SportsData, Mailgun)
-- Ran client discovery workshops and translated business needs into code
-- Maintained scalable Rails codebases using SOLID and clean code practices
-- Designed secure API contracts and PostgreSQL schemas
-- Created fine-grained access control systems via Auth0 + Airtable
-- Built robust multi-factor authentication with Devise, Magic Link, and custom logic
+#### 🔹 Core Responsibilities
+- Developed and maintained scalable Rails applications with a focus on clean architecture, SOLID principles, and reusable components.
+- Built and integrated REST APIs between backend and React frontend, and connected to external services like Stripe, SportsData.io, and Mailgun.
+- Collaborated with clients in discovery workshops to turn business needs into well-defined technical solutions.
+- Designed and maintained secure PostgreSQL schemas and API contracts.
+- Used AWS (S3, SES, Secrets Manager) to deliver scalable and secure features.
+- Built multi-factor authentication with Devise, Auth0, and Magic Link.
+
+
+#### 🔹 Contributions Beyond Development
+- **Mentoring**: Helped onboard new hires as a coding buddy, solved issues together, explained project structure, and assisted via pair programming.
+- **Recruiting**: Participated in technical interviews with senior devs; assessed creative programming tasks alongside interns.
+- **Internal Tools**: Developed a web-crawling script to detect whether 500+ websites used Rails, supporting non-technical team needs.
+- **AI Enablement**: Created and delivered an internal tech talk on how developers can use LLMs like ChatGPT responsibly.
+- **Hardware Management**: Handled developer hardware setup, laptop swaps, and offboarding support across the company.
+- **Cloud Migration**: Volunteered to self-learn AWS and contributed to internal initiatives as the company transitioned to cloud-based infrastructure.
 
 ---
 
@@ -67,8 +77,10 @@ _Feb 2022 – Aug 2024, Kraków_
 
 ## 📥 Download PDF Resume
 
-👉 [Click here to download the full resume (PDF)](./assets/Resume-Bartosz-Piekarz.pdf)
+👉 [Click here to download the full resume (PDF)](./assets/Bartosz-Piekarz-Resume.pdf)
 
 ---
 
 _This page will be updated as needed._
+
+
