@@ -13,9 +13,8 @@ title: Resume
 
 📍 Kraków, Poland  
 📧 bakercodemaker@gmail.com
-
-🔗 [LinkedIn](https://www.linkedin.com/in/bartosz-piekarz-112b83194/)
-🔗 [GitHub](https://github.com/BakerBart)
+🔗 <a href="https://www.linkedin.com/in/bartosz-piekarz-112b83194/" target="_blank">LinkedIn</a>  
+🔗 <a href="https://github.com/BakerBart" target="_blank">GitHub</a>
 
 ---
 
@@ -75,9 +74,10 @@ Software Developer with 2+ years of experience in Ruby on Rails, backend develop
 
 ---
 
+
 ## 📥 Download PDF Resume
 
-👉 [Click here to download the full resume (PDF)](./assets/Bartosz-Piekarz-Resume.pdf)
+👉 <a href="./assets/Bartosz-Piekarz-Resume.pdf" target="_blank">Click here to download the full resume (PDF)</a>
 
 ---
 
