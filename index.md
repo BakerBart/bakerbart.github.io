@@ -23,7 +23,7 @@ I'm currently working on a full-stack Rails project that replicates Airbnb funct
 
 You can also check out my experience and skills:
 
-👉 <a href="./assets/Resume-Bartosz-Piekarz.pdf" target="_blank">Download my CV as PDF</a>
+👉 <a href="./assets/Bartosz-Piekarz-Resume.pdf" target="_blank">Download my CV as PDF</a>
 👉 [🔗 View my resume](./cv.html)
 
 ---
