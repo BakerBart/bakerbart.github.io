@@ -23,7 +23,7 @@ I'm currently working on a full-stack Rails project that replicates Airbnb funct
 
 You can also check out my experience and skills:
 
-👉 [📄 Download My CV (PDF)](./assets/Bartosz-Piekarz-Resume.pdf)  
+👉 <a href="./assets/Resume-Bartosz-Piekarz.pdf" target="_blank">Download my CV as PDF</a>
 👉 [🔗 View my resume](./cv.html)
 
 ---
@@ -31,9 +31,10 @@ You can also check out my experience and skills:
 ## 📫 Contact
 
 - **Email**: bakercodemaker@gmail.com 
-- **GitHub**: [github.com/BakerBart](https://github.com/BakerBart)  
-- **LinkedIn**: [linkedin.com/in/bartosz-piekarz-112b83194](https://linkedin.com/in/bartosz-piekarz-112b83194)
+- <a href="https://www.linkedin.com/in/bartosz-piekarz-112b83194/" target="_blank">LinkedIn</a>  
+- <a href="https://github.com/BakerBart" target="_blank">GitHub</a>
 
 ---
 
 _This site will be regularly updated as I develop new projects._
+
